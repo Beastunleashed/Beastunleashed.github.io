@@ -294,6 +294,13 @@ padding: 5px;
     text-align:right;
     background-color:rgba(20, 173, 124, 1);
 }
-
+#hi
+{
+    display: none;
+}
+#lol
+{
+    padding: 100px
+}
 
 
