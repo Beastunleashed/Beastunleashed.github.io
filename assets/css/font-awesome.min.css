@@ -85,11 +85,12 @@
 }
 
 .fa.pull-left {
-    margin-right: .3em;
+    margin-right: .2em;
+    color: #ff0000;
 }
 
 .fa.pull-right {
-    margin-left: .3em;
+    margin-left: .2em;
 }
 
 .fa-spin {
